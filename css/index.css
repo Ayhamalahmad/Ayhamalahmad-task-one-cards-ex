@@ -48,24 +48,24 @@
 }
 
 .box:first-child {
-    background-image: url("/imges/anto-grossolano-R5kh26vv-rk-unsplash.jpg");
+    background-image: url("../imges/anto-grossolano-R5kh26vv-rk-unsplash.jpg");
 
 }
 
 .box:nth-child(2) {
-    background-image: url("/imges/giuseppe-famiani-DnUcI4iov4g-unsplash.jpg");
+    background-image: url("../imges/giuseppe-famiani-DnUcI4iov4g-unsplash.jpg");
 }
 
 .box:nth-child(3) {
-    background-image: url("/imges/giuseppe-famiani-nBahKIKv_EI-unsplash.jpg");
+    background-image: url("../imges/giuseppe-famiani-nBahKIKv_EI-unsplash.jpg");
 }
 
 .box:nth-child(4) {
-    background-image: url("/imges/giuseppe-famiani-szWVxFAe5sA-unsplash.jpg");
+    background-image: url("../imges/giuseppe-famiani-szWVxFAe5sA-unsplash.jpg");
 }
 
 .box:nth-child(5) {
-    background-image: url("/imges/massimo-virgilio-w3T292HdXhE-unsplash.jpg");
+    background-image: url("../imges/massimo-virgilio-w3T292HdXhE-unsplash.jpg");
 }
 
 .container .box.active {
