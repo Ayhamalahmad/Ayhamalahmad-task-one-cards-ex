@@ -8,7 +8,7 @@ This is a simple card carousel built using HTML, CSS, and JavaScript. The carous
 
 1. Access the [Card Carousel Demo](https://ayhamalahmad.github.io/Ayhamalahmad-task-one-cards-ex/) to view the live demo.
 
-2. The carousel starts automatically and cycles through the cards every 3 seconds.
+2. The carousel starts automatically and cycles through the cards every 9 seconds.
 
 3. Click on any card to make it the active card. The active card will be highlighted with a different background color.
 
