@@ -6,6 +6,7 @@ boxes.forEach((box) => {
   box.addEventListener("click", (ev) => {
     boxes.forEach((e) => {
       e.classList.remove("active");
+      clearInterval(Interval);
     });
     ev.currentTarget.classList.add("active");
   });
@@ -21,4 +22,4 @@ function moveActiveClass() {
   nextBox.classList.add("active");
 }
 // Move the class "active" every 9 seconds 
-setInterval(moveActiveClass, 9000);
+let Interval= setInterval(moveActiveClass, 9000);
