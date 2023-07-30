@@ -20,5 +20,5 @@ function moveActiveClass() {
   activeBox.classList.remove("active");
   nextBox.classList.add("active");
 }
-// Move the class "active" every 3 seconds 
-setInterval(moveActiveClass, 3000);
+// Move the class "active" every 9 seconds 
+setInterval(moveActiveClass, 9000);
